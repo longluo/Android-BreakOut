@@ -1,2 +1,5 @@
 # Android-BreakOut
-The Android Game BreakOut
+
+The Android Game BreakOut in OpenGL ES
+
+
